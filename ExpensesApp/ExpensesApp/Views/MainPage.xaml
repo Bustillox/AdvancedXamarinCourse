@@ -4,6 +4,6 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:view="clr-namespace:ExpensesApp.Views">
-    <view:CategoriesPage Title="Categories" IconImageSource="category.png" />
-    <view:ExpensesPage Title="Expenses" IconImageSource="expenses.png" />
+    <view:CategoriesPage Title="Categories" Icon="category.png" />
+    <view:ExpensesPage Title="Expenses" Icon="expenses.png" />
 </TabbedPage>
